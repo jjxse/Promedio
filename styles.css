@@ -1,0 +1,20 @@
+body {
+    background-color: #f5f0e1; /* Un color de fondo pálido marrón */
+    color: #333; /* Color de texto oscuro */
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #7a4b2a; /* Color de texto marrón suave */
+}
+
+input[type="number"] {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #c5b5a3; /* Borde marrón claro */
+    border-radius: 4px;
+    width: calc(100% - 18px);
+}
+
